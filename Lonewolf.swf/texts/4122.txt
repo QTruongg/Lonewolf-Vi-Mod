@@ -1,0 +1,19 @@
+[
+xmin -40
+ymin -40
+xmax 8902
+ymax 3640
+wordwrap 1
+multiline 1
+readonly 1
+noselect 1
+html 1
+font 353
+height 360
+color #ffffffff
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="center"><font face="_sans" size="18" color="#ffffff" letterSpacing="0.00" kerning="1">MỘT TỰA GAME BỞI:</font></p><p align="center"><font face="_sans" size="18" color="#ffffff" letterSpacing="0.00" kerning="1">SIMON HASON</font></p><p align="center"></p><p align="center"><font face="_sans" size="18" color="#ffffff" letterSpacing="0.00" kerning="1">MUSIC:</font></p><p align="center"><font face="_sans" size="18" color="#ffffff" letterSpacing="0.00" kerning="1">JOSHUA CRISPIN / GENERDYN</font></p><p align="center"></p><p align="center"><font face="_sans" size="18" color="#ffffff" letterSpacing="0.00" kerning="1">PANEL ARTWORK:</font></p><p align="center"><font face="_sans" size="18" color="#ffffff" letterSpacing="0.00" kerning="1">PAULO RUVALCABA</font></p>

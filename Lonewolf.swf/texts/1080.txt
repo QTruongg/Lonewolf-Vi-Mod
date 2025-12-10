@@ -1,0 +1,17 @@
+[
+xmin -40
+ymin -40
+xmax 2699
+ymax 520
+readonly 1
+noselect 1
+html 1
+font 353
+height 360
+color #ffffffff
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="center"><font face="_sans" size="18" color="#ffffff" letterSpacing="0.00" kerning="1">Tiếng Việt</font></p>

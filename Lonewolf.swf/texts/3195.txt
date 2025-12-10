@@ -1,0 +1,18 @@
+[
+xmin -40
+ymin -40
+xmax 2040
+ymax 568
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 1
+height 440
+color #ff9f9787
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="left"><font face="Bebas Neue" size="22" color="#9f9787" letterSpacing="0.00" kerning="1">BỎ QUA &gt;</font></p>
